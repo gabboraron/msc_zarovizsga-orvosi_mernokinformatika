@@ -1,0 +1,2 @@
+# msc_zarovizsga-orvosi_mernokinformatika
+MSc záróvizsga kidolgozás orvosi mérnökinformatika szakirányra
