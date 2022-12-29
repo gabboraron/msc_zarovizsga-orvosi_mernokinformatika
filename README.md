@@ -1,4 +1,7 @@
 # MSc záróvizsga kidolgozás orvosi mérnökinformatika szakirányra
+> Mozilla Firefoxban a PDF-ekre mutató külső hivatkozások az adott oldalszámhoz ugranak egyből.
+>
+> A kidolgozáshoz főleg saját jegyzeteimet, illetve az oktatók jegyzeteit használtam fel.
 
 ## Felhőszámítási rendszerek:
 ### 1.	Felhőszámítási rendszerek alapjai: definíciók, szolgáltatási és kialakítási modellek, felhasználási mintázatok
