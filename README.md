@@ -4,16 +4,17 @@
 > A kidolgozáshoz főleg saját jegyzeteimet, illetve az oktatók jegyzeteit használtam fel.
 
 ## Felhőszámítási rendszerek:
-### 1.	Felhőszámítási rendszerek alapjai: definíciók, szolgáltatási és kialakítási modellek, felhasználási mintázatok
-### 2.	Felhőszámítási rendszerek alapjai: előnyök (felhasználói és szolgáltatói oldalról), technikai, üzleti és emberi tényezők
-### 3.	OpenStack felhő: architektúra és alapvető működési mechanizmusok
-### 4.	OpenStack Keystone: biztonsági jellemzők, alapkoncepciók és mechanizmusok
-### 5.	OpenStack Nova és Glance: virtuális gépekre vonatkozó jellemzők, alapkoncepciók és mechanizmusok
-### 6.	OpenStack Neutron: hálózati jellemzők, alapkoncepciók és mechanizmusok
-### 7.	OpenStack Cinder és Swift: tárolási jellemzők, alapkoncepciók és mechanizmusok
-### 8.	AWS IaaS megoldások (EC2 & tárolási szolgáltatások): jellemzők, alapkoncepciók és mechanizmusok (kifejezetten virtuális gépek menedzsmentjére vonatkozóan)
-### 9.	Magas rendelkezésre állás, terheléselosztás és automatikus skálázás az AWS-ben
-### 10.	Microsoft Azure / PaaS megoldások: jellemzők, alapkoncepciók és mechanizmusok (adatbázisok)
+### [1.	Felhőszámítási rendszerek alapjai: definíciók, szolgáltatási és kialakítási modellek, felhasználási mintázatok](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea1)
+ - https://github.com/gabboraron/Felho_alapu_IoT_es_Big_Data_platformok#ea1---big-data-and-hadoop-basics
+### [2.	Felhőszámítási rendszerek alapjai: előnyök (felhasználói és szolgáltatói oldalról), technikai, üzleti és emberi tényezők](https://github.com/gabboraron/felhoszamitasi_rendszerek#felh%C5%91-felhaszn%C3%A1l%C3%A1s-el%C5%91nyei)
+### [3.	OpenStack felhő: architektúra és alapvető működési mechanizmusok](https://github.com/gabboraron/felhoszamitasi_rendszerek#openstack-alapok)
+### [4.	OpenStack Keystone: biztonsági jellemzők, alapkoncepciók és mechanizmusok](https://github.com/gabboraron/felhoszamitasi_rendszerek#keystone)
+### 5.	OpenStack [Nova](https://github.com/gabboraron/felhoszamitasi_rendszerek#gy4--nova) és [Glance](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea5---glance--nova--neutron): virtuális gépekre vonatkozó jellemzők, alapkoncepciók és mechanizmusok
+### [6.	OpenStack Neutron: hálózati jellemzők, alapkoncepciók és mechanizmusok](https://github.com/gabboraron/felhoszamitasi_rendszerek#gy5--neutron)
+### [7.	OpenStack Cinder és Swift: tárolási jellemzők, alapkoncepciók és mechanizmusok](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea6--cinder-%C3%A9s-swift)
+### [8.	AWS IaaS megoldások (EC2 & tárolási szolgáltatások): jellemzők, alapkoncepciók és mechanizmusok (kifejezetten virtuális gépek menedzsmentjére vonatkozóan)](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea7---aws-ec2-s3)
+### [9.	Magas rendelkezésre állás, terheléselosztás és automatikus skálázás az AWS-ben](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea8---high-availability---load-balancing---autoscaling-patterns-aws)
+### [10.	Microsoft Azure / PaaS megoldások: jellemzők, alapkoncepciók és mechanizmusok (adatbázisok)](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea9---microsoft-azure)
 
 ## Diagnosztikai célú orvosi képalkotás
 ### [I. Röntgen](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#r%C3%B6ntgen-rtg)
