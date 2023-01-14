@@ -117,9 +117,9 @@
 > Analitikus módszerek kategoriális változó vizsgálatára: gyakorisági sor, gyakoriság, relatív gyakoriság, módusz. Grafikus módszer kategoriális változó vizsgálatára: oszlop- és kördiagram. Két kategoriális változó egyidejű vizsgálata, kereszttábla.
 ### 4.	Deskriptív statisztika: folytonos változó(k) vizsgálata
 > Analitikus módszerek folytonos változó vizsgálatára: átlag, medián, terjedelem, szórás, IQR, kvantilisek. Grafikus módszer folytonos változó vizsgálatára: hisztogram, magfüggvényes sűrűségbecslés, Tukey-féle boxplot. Két folytonos változó együttes vizsgálata: kovariancia, korreláció, szóródási diagram.
-### 5.	Következtető statisztitika alapjai
+### 5.	[Következtető statisztitika alapjai](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/induktiv.html#induktivmintavetelihelyzet)
 > Minta és sokaság, a mintavételes helyzet fogalma. Véges és fiktív (végtelen) sokaságok. Mintavételi ingadozás és mintavételi hiba, szerepük az orvosi kutatásokban. A mintavételi hiba elleni védekezés alapgondolatai. Mintavételi és nem-mintavételi hiba.
-### 6.	A következtető statisztika apparátusa: becsléselmélet
+### 6.	A következtető statisztika apparátusa: [becsléselmélet](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/induktiv.html#induktivbecsleselmelet)
 > A becsléselmélet alapjai: becslőfüggvény, a becslőfüggvény mintavételi tulajdonságai (torzítatlanság, hatásosság, konzisztencia stb.). Pontbecslés és intervallumbecslés (konfidenciaintervallum). A mintanagyság szerepe és jelentősége, mintanagyság-tervezés.
-### 7.	A következtető statisztika apparátusa: hipotézisvizsgálat
+### 7.	A következtető statisztika apparátusa: [hipotézisvizsgálat](https://tamas-ferenci.github.io/FerenciTamas_BevezetesABiostatisztikaba/induktiv.html#induktivhipotezisvizsgalat)
 > A hipotézisvizsgálat alapfogalmai, null- és ellenhipotézis, tesztstatisztika. A hipotézisvizsgálat logikája. Első- és másodfajú hiba. Döntés hipotézisvizsgálatban: szignifikanciaszint, kritikus érték, p-érték. Egy- és kétoldalú próbák. Próba választása adott kérdés vizsgálatára.
