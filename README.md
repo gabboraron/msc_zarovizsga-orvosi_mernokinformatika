@@ -52,7 +52,7 @@
 > 4. A PET berendezés általános belső működése
 > 5. A PET fejlődésének főbb állomásai, a PET alapú képalkotás problémái
 
-### [VI. Spektroszkópia/spektrometria](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#spektroszk%C3%B3pia)
+### [VI. Spektroszkópia/spektrometria](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#vispektroszk%C3%B3piaspektrometria)
 > 1. A spektroszkópia/spektrometria alapjai
 > 2. A spektroszkópia/spektrometria előnyei
 > 3. A spektroszkópia/spektrometria hátrányai
@@ -117,6 +117,7 @@
     - eredeti: http://eta.bibl.u-szeged.hu/1782/1/biostat_slides.pdf
     - fork $_{(2023 január)}$ : https://github.com/gabboraron/msc_zarovizsga-orvosi_mernokinformatika/blob/main/biostat_slides-SZTE.pdf
   - [biostatisztika nem statisztikusoknak](https://e-akademia.hu/html/zold12/bevezet%C3%A9s.html#ch:mo2)
+- [egy lapon](https://github.com/gabboraron/msc_zarovizsga-orvosi_mernokinformatika/tree/main/biostatisztika_osszegzo_jegyzet)
 
 ### 1.	A biostatisztika áttekintése: kérdésfeltevések és alapproblémák
 > [Tipikus problémák a biostatisztikában](https://e-akademia.hu/html/zold12/bevezet%C3%A9s.html#ch:mo2), [a matematikailag megalapozott módszerek szükségessége az orvosbiológiai kutatások támogatásában](https://github.com/gabboraron/orvosi_vizsgalatok_kiertekelesenek_mernokinformatikai_alapjai#gy%C3%B3gyszerfejleszt%C3%A9s-f%C3%A1zisai). [A humán empirikus orvosi kutatások módszerei](http://real.mtak.hu/46137/1/Ferenci_Immunonkologia_Biostatisztika_1.pdf), [kísérlet és megfigyelés](http://www.medstat.hu/oktatas/AzOrvosiMegismeresModszertana/FerenciTamas_AzOrvosiMegismeresModszertana.pdf). [A confounding fogalma.](https://github.com/gabboraron/orvosi_vizsgalatok_kiertekelesenek_mernokinformatikai_alapjai#confounding-zavar%C3%B3-v%C3%A1ltoz%C3%B3) [Védekezési lehetőségek a confounding ellen.](https://github.com/gabboraron/orvosi_vizsgalatok_kiertekelesenek_mernokinformatikai_alapjai#randomiz%C3%A1ci%C3%B3)
