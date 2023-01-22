@@ -4,6 +4,8 @@
 > A kidolgozáshoz főleg saját jegyzeteimet, illetve az oktatók jegyzeteit használtam fel.
 
 ## Felhőszámítási rendszerek:
+- [freecodecamp - openstack](https://www.freecodecamp.org/news/openstack-tutorial-operate-your-own-private-cloud/)
+
 ### [1.	Felhőszámítási rendszerek alapjai: definíciók, szolgáltatási és kialakítási modellek, felhasználási mintázatok](https://github.com/gabboraron/felhoszamitasi_rendszerek#ea1)
  - https://github.com/gabboraron/Felho_alapu_IoT_es_Big_Data_platformok#ea1---big-data-and-hadoop-basics
 ### [2.	Felhőszámítási rendszerek alapjai: előnyök (felhasználói és szolgáltatói oldalról), technikai, üzleti és emberi tényezők](https://github.com/gabboraron/felhoszamitasi_rendszerek#felh%C5%91-felhaszn%C3%A1l%C3%A1s-el%C5%91nyei)
