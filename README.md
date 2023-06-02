@@ -65,7 +65,7 @@
 > 1. A CTI alapú képalkotás
 > 2. A CTI vizsgálat előnyei, hátrányai
 > 3. A CTI alapú vizsgálatok típusai
-> 4. A főbb hőkamera típusok/általános belső működésük
+> 4. A főbb hőkamera típusok/általános belső működésük - https://youtu.be/1RTpDI00_9E?t=424
 > 5. A CTI alapú képalkotás problémái
 
 ### [VIII. NIRS - Near-infrared Spectroscopy](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#viiinirs---near-infrared-spectroscopy)
