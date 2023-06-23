@@ -102,6 +102,8 @@
 > 3. A tárgylemez scanner felépítése, működése, előnyei/hátrányai
 > 4. Szkennelési típusok
 > 5. Mintavétel képek esetében (Nyquist)
+>
+> biomikroszkópia tananyagok angolul: https://www.ibiology.org/online-biology-courses/microscopy-series/
 
 ### [XIII. Ultrahangos képalkotás](https://github.com/gabboraron/diagnosztikai_celu_orvosi_kepalkotas#ixultrahangos-k%C3%A9palkot%C3%A1s)
 > 1. Az ultrahang berendezés részei, elrendezése, működése
